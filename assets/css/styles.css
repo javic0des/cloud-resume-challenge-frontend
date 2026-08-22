@@ -8,6 +8,10 @@
             background-color: #4d6275;
             border: 1px solid #c9dfbe
         }
+        .language-switcher {
+            text-align: right;
+            margin-bottom: 10px;
+        }
         .container {
             max-width: 800px;
             margin: 0 auto;
